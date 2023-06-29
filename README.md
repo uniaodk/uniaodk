@@ -8,6 +8,8 @@
   
   - 📫 How to reach me **uniaodk@gmail.com**
 
+  - ⚡ Fun fact **I can sing**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/andré-spindola-472659189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andré-spindola-472659189" height="30" width="40" /></a>
