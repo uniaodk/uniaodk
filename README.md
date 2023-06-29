@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm André Spindola</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
-<br><br>
+<br>
 
   - 🔭 I’m currently working on **private projects**
 
