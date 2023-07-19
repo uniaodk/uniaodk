@@ -4,7 +4,7 @@
 
   - 🔭 I’m currently working on **private projects**
 
-  - 🌱 I’m currently learning **how to create better games**
+  - 🌱 I’m currently learning **how to create games**
   
   - 📫 How to reach me **uniaodk@gmail.com**
 
